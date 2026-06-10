@@ -1,0 +1,41 @@
+body {
+    font-family: Tahoma, Arial, sans-serif;
+    margin: 32px;
+}
+
+h1, h2, h3, h4 {
+    font-family: Georgia, "Times New Roman", serif;
+    color: rgb(208, 65, 13);
+}
+
+h1 {
+    background-color: antiquewhite;
+    padding: 32px 16px;
+    font-size: 48px;
+}
+
+h2 {
+    margin-top: 40px;
+}
+
+h3 {
+    margin-bottom: 8px;
+}
+
+p {
+    margin: 8px 0;
+    font-size: 18px;
+}
+
+li {
+    margin: 4px 0;
+    color:darkslategrey;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+img {
+    border: 2px solid rosybrown;
+    margin-left: 16px;
+    margin-top: -40px;
+}
